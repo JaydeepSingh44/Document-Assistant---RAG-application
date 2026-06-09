@@ -1,0 +1,37 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment variables (keep secrets safe)
+.env
+.env.*
+
+# Python cache and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Logs and temp files
+*.log
+logs/
+tmp/
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Test/coverage outputs
+.coverage
+htmlcov/
+.cache/
