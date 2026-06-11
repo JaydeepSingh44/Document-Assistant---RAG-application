@@ -35,3 +35,4 @@ RAG/
 │── main.py               # Query assistant
 │── TestBook.pdf          # Sample document (~200 pages)
 │── chroma-db/            # Persistent vector store
+anf
